@@ -13,7 +13,7 @@ const Home = () => {
         }}>
             <NavigationBar />
             <section className="Hero container " >
-                <div className="row d-flex justify-content-evenly m-auto p-5">
+                <div className="row d-flex justify-content-evenly m-auto p-2">
                     <div className="col-md-6 my-5">
                         <h1 >Smart <br />  Bicycle Lock</h1>
                         <p className="my-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In viverra diam non blandit volutpat</p>
