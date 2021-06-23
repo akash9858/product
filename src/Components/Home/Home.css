@@ -1,0 +1,14 @@
+.heroImg {
+  width: 80%;
+}
+.center {
+  margin: auto;
+  width: 50%;
+}
+.danger {
+  background-color: #ff7000;
+  color: white;
+}
+.col-md-6.my-5.end {
+  text-align-last: right;
+}

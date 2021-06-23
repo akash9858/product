@@ -1,0 +1,15 @@
+.orangebg {
+  height: 280px;
+  background-image: url(../../Images/Group.png);
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.center {
+  margin: auto;
+  width: 50%;
+}
+.shopbtn {
+  background-color: white;
+  color: #ff7000;
+}

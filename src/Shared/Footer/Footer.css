@@ -1,0 +1,26 @@
+footer img {
+  height: 60px;
+}
+footer a {
+  color: #ffffff;
+  display: block;
+  line-height: 2;
+}
+.footer-bottom {
+  border-top: 0.5px solid #edf0f6;
+}
+.fa-colour {
+  color: #edf0f6 !important;
+}
+a {
+  text-decoration: none;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  img {
+    height: 20px;
+  }
+  footer a {
+    line-height: 1.5;
+  }
+}

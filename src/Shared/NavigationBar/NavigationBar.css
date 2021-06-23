@@ -1,0 +1,12 @@
+.shopbtn {
+  background-color: white;
+  color: #ff7000;
+}
+a.me-4.text.nav-link {
+  color: white;
+}
+@media screen and (max-width: 992px) {
+  a.me-4.text.nav-link {
+    color: #ff7000 !important;
+  }
+}
