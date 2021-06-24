@@ -4,6 +4,7 @@ import ChooseUS from './Components/ChooseUs/ChooseUs';
 import Home from './Components/Home/Home';
 import Smart from './Components/Smart/Smart';
 import Works from './Components/Works/Works';
+import Footer from './Shared/Footer/Footer';
 function App() {
   return (
     <>
@@ -11,6 +12,7 @@ function App() {
       <ChooseUS />
       <Works />
       <Smart />
+      <Footer />
 
     </>
   );

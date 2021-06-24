@@ -1,6 +1,9 @@
 footer img {
   height: 60px;
 }
+.bg {
+  background-color: #ff7000;
+}
 footer a {
   color: #ffffff;
   display: block;
